@@ -29,8 +29,8 @@ Analyser 15 actions françaises à partir de données historiques publiques Yaho
 
 ## Résultat attendu
 À la fin, vous obtenez :
-- data/raw/prix_actions.csv
-- data/processed/rendements_journaliers.csv
-- data/processed/indicateurs_actions.csv
+- data/brut/prix_actions.csv
+- data/obtenue/rendements_journaliers.csv
+- data/obtenue/indicateurs_actions.csv
 - figures/*.png
-- rapport/rapport_squelette.md à compléter
+- rapport/rapport.md à compléter
