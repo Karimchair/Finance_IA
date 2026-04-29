@@ -33,4 +33,4 @@ Analyser 15 actions françaises à partir de données historiques publiques Yaho
 - data/obtenue/rendements_journaliers.csv
 - data/obtenue/indicateurs_actions.csv
 - figures/*.png
-- rapport/rapport.md à compléter
+- rapport/rapport.md 
